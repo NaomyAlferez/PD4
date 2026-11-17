@@ -1,5 +1,5 @@
 # 🎪 Sistema Administrativo de Stands - FILEY
-git 
+
 Sistema en línea de comandos para la gestión de espacios (stands) de la **Feria Internacional de la Lectura Yucatán (FILEY)**, implementando el patrón de diseño **MVC** y base de datos **H2** en memoria.
 
 ## 🚀 Características Principales
