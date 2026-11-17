@@ -54,4 +54,8 @@ public class ConsolaVista {
         }
         System.out.println("=========================================================================");
     }
+
+    public void mostrarMensaje(String mensaje) {
+        System.out.println("  -> " + mensaje);
+    }
 }

@@ -35,4 +35,8 @@ public class Reservacion {
         return String.format("Reserva #%d | Stand: #%d | Editorial ID: %d | Vence: %s | Pagado: $%.2f | Pronto Pago: %s",
                 id, idStand, idEditorial, fechaVencimiento, montoPagado, (aplicaProntoPago ? "Sí" : "No"));
     }
+
+    public void setMontoPagado(double montoPagado) {
+        this.montoPagado = montoPagado;
+    }
 }
